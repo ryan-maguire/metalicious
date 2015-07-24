@@ -134,7 +134,3 @@ Acknowledgements
 ----------------
 
 Metalicious was developed with support from the [MacArthur Foundation](http://www.macfound.org/) and [Chapin Hall at the University of Chicago](http://www.chapinhall.org/).
-
-
-sf
-
